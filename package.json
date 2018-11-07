@@ -37,7 +37,7 @@
     "identity-obj-proxy": "^3.0.0",
     "jest": "^22.0.4",
     "prettier": "^1.10.2",
-    "react": "^16.0.0",
+    "react": "^16.6.1",
     "react-dom": "^16.0.0",
     "reset-css": "^4.0.0"
   },
